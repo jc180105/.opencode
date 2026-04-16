@@ -1,0 +1,106 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "logLevel": "INFO",
+  "mcp": {
+    "supabase": {
+      "type": "remote",
+      "url": "https://mcp.supabase.com/mcp",
+      "enabled": true
+    }
+  },
+  "instructions": [
+    "opencode-context/project.md",
+    "opencode-context/conventions.md"
+  ],
+  "permission": {
+    "read": {
+      "*": "allow"
+    },
+    "edit": {
+      "*": "ask"
+    },
+    "bash": {
+      "*": "ask",
+      "npm *": "allow",
+      "git *": "allow",
+      "ls": "allow",
+      "dir": "allow",
+      "npx *": "allow",
+      "rm *": "deny",
+      "del *": "deny",
+      "format *": "deny"
+    }
+  },
+  "agent": {
+    "Maestro": {
+      "description": "Agente principal de construção — executa tarefas de desenvolvimento com acesso total a ferramentas.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.maestro/ROLE.md}",
+      "mode": "primary",
+      "temperature": 0.3,
+      "skills": ["subagent-orchestrator", "delegation-pattern", "maestro-core", "task-planning"]
+    },
+    "plan": {
+      "description": "Modo planejamento — analisa e sugere sem fazer alterações no código.",
+      "mode": "primary",
+      "temperature": 0.2,
+      "permission": {
+        "edit": "deny",
+        "bash": "deny",
+        "read": "allow"
+      }
+    },
+    "Artist": {
+      "description": "Design Premium UI/UX — cria e modifica componentes visuais, telas, estilos e animações usando React, Tailwind e Shadcn/UI.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.ui-ux/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.5,
+      "steps": 15,
+      "skills": ["tailwind-v4-shadcn", "framer-motion", "react-component", "ui-ux-pro-max", "context-loading"]
+    },
+    "Refiner": {
+      "description": "Engenheiro de Prompts e Arquiteto de Soluções — transforma ideias vagas em especificações técnicas detalhadas (Prompt Optimization).",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.refiner/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.7,
+      "steps": 10,
+      "skills": ["senior-prompt-engineer", "prompt-engineering-patterns", "context-loading"]
+    },
+    "Engine": {
+      "description": "Backend e Lógica — trabalha com Supabase, PostgreSQL, React Query hooks, mutations, lógica de negócio, deploy e configuração de servidor.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.roo/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.3,
+      "steps": 15,
+      "skills": ["supabase-postgres-best-practices", "supabase-help", "rest-api", "sql-database", "context-loading"]
+    },
+    "Guardian": {
+      "description": "Segurança, Testes e Diagnóstico — revisa código, verifica types, valida RLS, faz code review e diagnostica configuração do sistema.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.kilocode/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "steps": 10,
+      "skills": ["security-testing", "playwright-best-practices", "context-loading"]
+    },
+    "Librarian": {
+      "description": "Conhecimento e Contexto — busca informações no projeto, mantém documentação atualizada, gera SPEC.md e gerencia opencode-context/.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.augment/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.2,
+      "steps": 8,
+      "skills": ["create-context", "create-spec", "context-loading"]
+    },
+    "explore": {
+      "description": "Exploração rápida e somente-leitura da codebase — busca arquivos, pesquisa código, responde perguntas sem modificar nada.",
+      "prompt": "{file:C:/Users/pedro/.config/opencode/.agents/.explore/ROLE.md}",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "steps": 5,
+      "skills": ["context-loading"],
+      "tools": {
+        "write": false,
+        "edit": false,
+        "bash": false
+      }
+    }
+  }
+}

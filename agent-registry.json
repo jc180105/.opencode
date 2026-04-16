@@ -1,0 +1,32 @@
+{
+  "Artist": {
+    "description": "Design Premium (UI/UX - React 18)",
+    "tags": ["ui", "visual", "button", "tela", "estilo", "componente"],
+    "skills": ["react-component", "context-loading", "ui-ux-pro-max"]
+  },
+  "Engine": {
+    "description": "Backend e Lógica (API, DB, Hooks - React 18)",
+    "tags": ["backend", "api", "banco", "dados", "hook"],
+    "skills": ["rest-api", "sql-database", "supabase-advanced", "context-loading"]
+  },
+  "Guardian": {
+    "description": "Segurança, Testes e Diagnóstico",
+    "tags": ["teste", "segurança", "review", "validar", "diagnostico"],
+    "skills": ["context-loading"]
+  },
+  "Librarian": {
+    "description": "Conhecimento, Contexto e SPEC",
+    "tags": ["doc", "informação", "contexto", "create-context", "create-spec", "spec"],
+    "skills": ["create-context", "create-spec", "context-loading"]
+  },
+  "Maestro": {
+    "description": "Orquestrador Principal (Especialista em Delegação)",
+    "tags": ["delegar", "orquestrar", "coordenar"],
+    "skills": ["delegation-pattern", "maestro-core"]
+  },
+  "explore": {
+    "description": "Exploração somente-leitura da codebase",
+    "tags": ["buscar", "encontrar", "pesquisar", "explorar"],
+    "skills": ["context-loading"]
+  }
+}

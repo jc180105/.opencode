@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "skills": {
+    "context-loading": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "create-context": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "create-spec": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "delegation-pattern": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "framer-motion": {
+      "source": "schoepplake/framer-motion-skill",
+      "sourceType": "github",
+      "computedHash": "9904c5d7e71bfba58b8896c07a862c32ec2c04f8a832d399a380749f071e28cc"
+    },
+    "maestro-core": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "motion-animations": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "nextjs-15": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "playwright-best-practices": {
+      "source": "currents-dev/playwright-best-practices-skill",
+      "sourceType": "github",
+      "computedHash": "6db654e753257e642d6507d59b4fc633a2382e93429748ba0fb6817c23ef5216"
+    },
+    "prompt-engineering-patterns": {
+      "source": "nilecui/skillsbase",
+      "sourceType": "github",
+      "computedHash": "6db5a6196d70d6a27d56f5f5e95a9fdc097e96e5214892e6dc5271e1f2d3babb"
+    },
+    "react-component": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "rest-api": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "security-testing": {
+      "source": "proffesor-for-testing/agentic-qe",
+      "sourceType": "github",
+      "computedHash": "56ac403b63e6809da40c28ff839446a0f0b508c22b652bb28dc106c255c52e29"
+    },
+    "senior-prompt-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "computedHash": "e304744166954a31ea36760325c33c7787dfc3f73c14a578209a2a9118593993"
+    },
+    "sql-database": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "subagent-orchestrator": {
+      "source": "yuniorglez/gemini-elite-core",
+      "sourceType": "github",
+      "computedHash": "7069b4fbd937c14747aae56e1473bda81e452d240da300d22457487cf5923850"
+    },
+    "supabase-advanced": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "supabase-help": {
+      "source": "yoanbernabeu/supabase-pentest-skills",
+      "sourceType": "github",
+      "computedHash": "81dcbf9a6dd92f15c06be4adcfc0fd6671cbcfa566aa740f14a878f7e42d9ac8"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "computedHash": "8e41c7417894e6f394614ee7ca3ee5322b1e58d890255d441f42dea98732597f"
+    },
+    "tailwind-4": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "tailwind-v4-shadcn": {
+      "source": "ederheisler/agent-skills",
+      "sourceType": "github",
+      "computedHash": "f9ce6952ca676521d138cebeada14d637a2a0cdb5d98d7917f36b78406848682"
+    },
+    "task-planning": {
+      "source": "local",
+      "sourceType": "local"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "computedHash": "6337038fe1fe6bbe1b9f252ab678ee575859190bab6f0f246f4061824eb40875"
+    },
+    "vercel-react-best-practices": {
+      "source": "local",
+      "sourceType": "local"
+    }
+  }
+}
