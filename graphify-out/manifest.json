@@ -1,0 +1,1418 @@
+{
+  "C:\\Users\\pedro\\.config\\opencode\\impeccable-live-start.ps1": {
+    "mtime": 1777943625.3649445,
+    "hash": "d3a2cff59b437ad46703fe0f562627f9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\plugins\\graphify.js": {
+    "mtime": 1777862836.2633698,
+    "hash": "05c1b965c8d4f9d185bdd6abcd3eb51f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\plugins\\rtk.ts": {
+    "mtime": 1777904767.1192522,
+    "hash": "4261262e7a80116263a85f8d9b85a3e8"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\scripts\\impeccable-live-autopilot.py": {
+    "mtime": 1777942937.5068104,
+    "hash": "01ea8e07c68304f595efe0e45fb0e393"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\scripts\\impeccable-live-start.ps1": {
+    "mtime": 1777943754.270486,
+    "hash": "d3a2cff59b437ad46703fe0f562627f9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\scripts\\impeccable-live-stop.ps1": {
+    "mtime": 1777906021.624902,
+    "hash": "c1d5817d5ae3bdb457f427233326f8f9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\accept_changes.py": {
+    "mtime": 1777862773.7068758,
+    "hash": "58d44be98abc604b52fdb68fc322cd16"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\comment.py": {
+    "mtime": 1777862773.7068758,
+    "hash": "52688ed8793095f0617d69719a3c2d18"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\__init__.py": {
+    "mtime": 1777862773.7058744,
+    "hash": "81051bcc2cf1bedf378224b0a93e2877"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\pack.py": {
+    "mtime": 1777862773.7093813,
+    "hash": "79be6f4705be6ca9492c4b0cc9cca058"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\soffice.py": {
+    "mtime": 1777862773.7322197,
+    "hash": "a4442517404db3ae6649229ce5650274"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\unpack.py": {
+    "mtime": 1777862773.7322197,
+    "hash": "397d8b9cc4c16d0053867498c7c7dbbe"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validate.py": {
+    "mtime": 1777862773.7332246,
+    "hash": "7e746acaec414859d2e701165bddcc02"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\helpers\\merge_runs.py": {
+    "mtime": 1777862773.7078755,
+    "hash": "1f9d90a0dcd7f822927df3617fbef62a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\helpers\\simplify_redlines.py": {
+    "mtime": 1777862773.7078755,
+    "hash": "0f15f15eaf43a2baa3a4825945b363a3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\helpers\\__init__.py": {
+    "mtime": 1777862773.7078755,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validators\\base.py": {
+    "mtime": 1777862773.7337291,
+    "hash": "cbcea40d3009c588b90abccba6e007f3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validators\\docx.py": {
+    "mtime": 1777862773.734735,
+    "hash": "c0f7ee1e21599e4b51353a586d47c564"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validators\\pptx.py": {
+    "mtime": 1777862773.734735,
+    "hash": "d4b5ac129e40b5142d1f8c8a6e8b3275"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validators\\redlining.py": {
+    "mtime": 1777862773.735734,
+    "hash": "b9bf89b9bb6a413071c7b27d2741e41b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\validators\\__init__.py": {
+    "mtime": 1777862773.7337291,
+    "hash": "6ae13697412ab8c9b99b3268b717970b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\cleanup-deprecated.mjs": {
+    "mtime": 1777862755.4054377,
+    "hash": "51208407b06e051bb6d8ceab244db39c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\design-parser.mjs": {
+    "mtime": 1777862755.4064379,
+    "hash": "df65268bfe73ad8202ca309c2da3805c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\detect-csp.mjs": {
+    "mtime": 1777862755.4064379,
+    "hash": "0d3243060e66ba0d0a64684f9684ecc7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\impeccable-paths.mjs": {
+    "mtime": 1777862755.4074383,
+    "hash": "481a7e7626773e285361f0e6f55078d5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\is-generated.mjs": {
+    "mtime": 1777862755.4074383,
+    "hash": "81ada1894b5f562b0993fdff1756d82c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-accept.mjs": {
+    "mtime": 1777862755.4074383,
+    "hash": "feee297789fa52b5901e21bb354e8a4f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-browser-session.js": {
+    "mtime": 1777862755.4084396,
+    "hash": "e54c01fe1a8287f757161759beaab916"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-browser.js": {
+    "mtime": 1777862755.4084396,
+    "hash": "09d5959c4f68346ac3e032a1e16f8924"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-complete.mjs": {
+    "mtime": 1777862755.4099455,
+    "hash": "0ed6226feb3d80adf38f2098b6d7efd4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-completion.mjs": {
+    "mtime": 1777862755.4099455,
+    "hash": "c51f1de5c7aae5aa3f2c67f5d9875d3e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-inject.mjs": {
+    "mtime": 1777862755.4104607,
+    "hash": "01365c3718e920dbeee5eeb9159093fa"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-poll.mjs": {
+    "mtime": 1777862755.4104607,
+    "hash": "7b78710647b202a90d99852bdb7a5135"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-resume.mjs": {
+    "mtime": 1777862755.4104607,
+    "hash": "9187fc4ae434c0573b7c84c95b05f744"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-server.mjs": {
+    "mtime": 1777941521.8071945,
+    "hash": "47c8add1142978111567f486a80f505d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-session-store.mjs": {
+    "mtime": 1777862755.4114676,
+    "hash": "b0c628113419432d164204b18587d681"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-status.mjs": {
+    "mtime": 1777862755.4114676,
+    "hash": "f7f787396f44ef06c890f97c45d0ba75"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live-wrap.mjs": {
+    "mtime": 1777862755.4114676,
+    "hash": "9612f1254ce763221690053592892110"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\live.mjs": {
+    "mtime": 1777862755.412972,
+    "hash": "073965c7d10925f8ad9651a336220ee8"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\load-context.mjs": {
+    "mtime": 1777862755.412972,
+    "hash": "f96317a92230153a77069e4f81bd8e11"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\modern-screenshot.umd.js": {
+    "mtime": 1777862755.412972,
+    "hash": "c6afaf6ebceb162206f6a2e5b0ed653c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\scripts\\pin.mjs": {
+    "mtime": 1777862755.4139767,
+    "hash": "59e1f8315c2083fb7997e5ff3edfcb57"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\scripts\\connections.py": {
+    "mtime": 1777862773.744249,
+    "hash": "1606c9917623cc43787353d2cd8731ff"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\scripts\\evaluation.py": {
+    "mtime": 1777862773.74525,
+    "hash": "1a26a79489e2ae76029ec68b32065e61"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\add_slide.py": {
+    "mtime": 1777862773.7533612,
+    "hash": "2311b4bbefaae43aeb81697009cbfaf6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\clean.py": {
+    "mtime": 1777862773.7543612,
+    "hash": "c6f4a722921a1c54cfbcb18a83853991"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\thumbnail.py": {
+    "mtime": 1777862773.7769759,
+    "hash": "77c26992c7576268dadc62de322c9050"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\__init__.py": {
+    "mtime": 1777862773.7533612,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\pack.py": {
+    "mtime": 1777862773.755361,
+    "hash": "79be6f4705be6ca9492c4b0cc9cca058"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\soffice.py": {
+    "mtime": 1777862773.7739737,
+    "hash": "a4442517404db3ae6649229ce5650274"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\unpack.py": {
+    "mtime": 1777862773.7739737,
+    "hash": "397d8b9cc4c16d0053867498c7c7dbbe"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validate.py": {
+    "mtime": 1777862773.7739737,
+    "hash": "7e746acaec414859d2e701165bddcc02"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\helpers\\merge_runs.py": {
+    "mtime": 1777862773.755361,
+    "hash": "1f9d90a0dcd7f822927df3617fbef62a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\helpers\\simplify_redlines.py": {
+    "mtime": 1777862773.755361,
+    "hash": "0f15f15eaf43a2baa3a4825945b363a3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\helpers\\__init__.py": {
+    "mtime": 1777862773.7543612,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validators\\base.py": {
+    "mtime": 1777862773.7749734,
+    "hash": "cbcea40d3009c588b90abccba6e007f3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validators\\docx.py": {
+    "mtime": 1777862773.7759733,
+    "hash": "c0f7ee1e21599e4b51353a586d47c564"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validators\\pptx.py": {
+    "mtime": 1777862773.7759733,
+    "hash": "d4b5ac129e40b5142d1f8c8a6e8b3275"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validators\\redlining.py": {
+    "mtime": 1777862773.7769759,
+    "hash": "b9bf89b9bb6a413071c7b27d2741e41b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\validators\\__init__.py": {
+    "mtime": 1777862773.7749734,
+    "hash": "6ae13697412ab8c9b99b3268b717970b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pr-review\\scripts\\validate_skills.py": {
+    "mtime": 1777986776.1912787,
+    "hash": "be13fdca9def0046ff7ce3ab502186e4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\eval-viewer\\generate_review.py": {
+    "mtime": 1777862773.7800317,
+    "hash": "3ec67448bf48beb2ce336e8a050e4618"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\aggregate_benchmark.py": {
+    "mtime": 1777862773.782546,
+    "hash": "341cc9da943bb8515f22774f3fb1f151"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\generate_report.py": {
+    "mtime": 1777862773.782546,
+    "hash": "e103b279b5aeb66bdc6360b2882f7461"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\improve_description.py": {
+    "mtime": 1777862773.782546,
+    "hash": "90f7eca93679d893581c64f5ad408e63"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\package_skill.py": {
+    "mtime": 1777862773.783552,
+    "hash": "b3e2d0f02bd130c6865edaeb13042f71"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\quick_validate.py": {
+    "mtime": 1777862773.783552,
+    "hash": "1c14726b2f21750beffe0bef97c7f8d9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\run_eval.py": {
+    "mtime": 1777862773.783552,
+    "hash": "561ec9772f276cb1bea459e477f03fd9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\run_loop.py": {
+    "mtime": 1777862773.784559,
+    "hash": "8d7f8fc75b5b06df80837f05dcd33445"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\utils.py": {
+    "mtime": 1777862773.784559,
+    "hash": "77d0ec8142dfb2f06f5d150c4beaf333"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\scripts\\__init__.py": {
+    "mtime": 1777862773.78204,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\examples\\console_logging.py": {
+    "mtime": 1777986456.5948088,
+    "hash": "7166d10f96ff246e0529038e6885d0ff"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\examples\\element_discovery.py": {
+    "mtime": 1777986456.5948088,
+    "hash": "5282fba5ef350f26c2145e5cfaa76fc9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\examples\\static_html_automation.py": {
+    "mtime": 1777986456.5948088,
+    "hash": "ed829df858c7c0adf2b6b35e33643215"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\scripts\\with_server.py": {
+    "mtime": 1777986456.5958087,
+    "hash": "01c7c8d2b96019e3f88f18bb945d2abe"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\recalc.py": {
+    "mtime": 1777862773.821923,
+    "hash": "cd35c71302128d7a753db750ddbad401"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\pack.py": {
+    "mtime": 1777862773.8002796,
+    "hash": "79be6f4705be6ca9492c4b0cc9cca058"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\soffice.py": {
+    "mtime": 1777862773.8179002,
+    "hash": "a4442517404db3ae6649229ce5650274"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\unpack.py": {
+    "mtime": 1777862773.8189068,
+    "hash": "397d8b9cc4c16d0053867498c7c7dbbe"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validate.py": {
+    "mtime": 1777862773.8189068,
+    "hash": "7e746acaec414859d2e701165bddcc02"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\helpers\\merge_runs.py": {
+    "mtime": 1777862773.8002796,
+    "hash": "1f9d90a0dcd7f822927df3617fbef62a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\helpers\\simplify_redlines.py": {
+    "mtime": 1777862773.8002796,
+    "hash": "0f15f15eaf43a2baa3a4825945b363a3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\helpers\\__init__.py": {
+    "mtime": 1777862773.7987747,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validators\\base.py": {
+    "mtime": 1777862773.8204117,
+    "hash": "cbcea40d3009c588b90abccba6e007f3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validators\\docx.py": {
+    "mtime": 1777862773.8204117,
+    "hash": "c0f7ee1e21599e4b51353a586d47c564"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validators\\pptx.py": {
+    "mtime": 1777862773.8204117,
+    "hash": "d4b5ac129e40b5142d1f8c8a6e8b3275"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validators\\redlining.py": {
+    "mtime": 1777862773.821419,
+    "hash": "b9bf89b9bb6a413071c7b27d2741e41b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\validators\\__init__.py": {
+    "mtime": 1777862773.8189068,
+    "hash": "6ae13697412ab8c9b99b3268b717970b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\AGENTS.md": {
+    "mtime": 1777986875.2596145,
+    "hash": "ccf94a6e9eea951edd03c52b5a8f9f95"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\COMO-USAR.md": {
+    "mtime": 1777943093.843803,
+    "hash": "a0b83d2512973061d52dbdd3350dbe3f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\DESIGN.md": {
+    "mtime": 1777917714.4347553,
+    "hash": "ac15c369be96bad7e4974dc6171f5d17"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\DOCUMENTATION.md": {
+    "mtime": 1777986523.3230915,
+    "hash": "eefadceb35cb86e401295d1792afbace"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\PRODUCT.md": {
+    "mtime": 1777917702.078487,
+    "hash": "f53a2bd93317fd8a342f33fc20955338"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\QUICK_REFERENCE.md": {
+    "mtime": 1777918501.9460616,
+    "hash": "eb8e9ba5a4f162104510f60bc6981ddf"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\README.md": {
+    "mtime": 1777986517.5108297,
+    "hash": "47b8fa692acf6c1b2db3a22fb5c69ba4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\docs\\archive\\IMPROVEMENT_PLAN.md": {
+    "mtime": 1777941429.5460265,
+    "hash": "f85a226ac9b0a1a229aa0db29c791063"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\docs\\graphify\\GRAPHIFY_EXPLAIN_SYSTEM.md": {
+    "mtime": 1777918661.5404267,
+    "hash": "f6020322b413af38d588628780581705"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\docs\\graphify\\GRAPHIFY_SUMMARY.md": {
+    "mtime": 1777918425.4767652,
+    "hash": "cfe49de1892807117e42c04fdc5fbdf7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\anthropics-frontend-design\\LICENSE.txt": {
+    "mtime": 1777862773.7387342,
+    "hash": "29256199be2a609aac596980ffc11996"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\anthropics-frontend-design\\SKILL.md": {
+    "mtime": 1777862773.7387342,
+    "hash": "400c8b8231420f30b48aed0a6f37df9f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\CONTRIBUTING.md": {
+    "mtime": 1777945892.9878469,
+    "hash": "5299b51392a380fa38760293ad8ea8e6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\README.md": {
+    "mtime": 1777945892.9888468,
+    "hash": "78979f17e440780428e9f26507e349e0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\SKILL.md": {
+    "mtime": 1777946081.766632,
+    "hash": "451385db1baabe60430b03805b21b9da"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\airbnb\\DESIGN.md": {
+    "mtime": 1777945892.989846,
+    "hash": "27e12e9e2d03c73409ab83c4cdc671f2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\airbnb\\README.md": {
+    "mtime": 1777945892.989846,
+    "hash": "926b0c342ffac5ff63bf81313e1c35ac"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\airtable\\DESIGN.md": {
+    "mtime": 1777945892.990847,
+    "hash": "c7115a2f4e3f87bceee989e7f102c2b3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\airtable\\README.md": {
+    "mtime": 1777945892.9913516,
+    "hash": "61c74a0068d5a137ed2049f323719e3a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\apple\\DESIGN.md": {
+    "mtime": 1777945892.9923553,
+    "hash": "9022068e696b65b01833d8c8fb2900ad"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\apple\\README.md": {
+    "mtime": 1777945892.9923553,
+    "hash": "3ba58d864c1ae3d01d5b76df2fcc6cba"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\binance\\DESIGN.md": {
+    "mtime": 1777945892.9933631,
+    "hash": "40f7af1a184ce9b6432565680cd96f4d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\binance\\README.md": {
+    "mtime": 1777945892.9933631,
+    "hash": "a566bd48150e4a384be994392d6b29b4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bmw\\DESIGN.md": {
+    "mtime": 1777945892.994868,
+    "hash": "666ff322407becde73e4bb5bf3815cdd"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bmw\\README.md": {
+    "mtime": 1777945892.994868,
+    "hash": "7b7ba1217dd249f5030eb49d4e1f98f6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bmw-m\\DESIGN.md": {
+    "mtime": 1777945892.9933631,
+    "hash": "6d56bc03ce7a799ac1fcf5d8a7f790d1"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bmw-m\\README.md": {
+    "mtime": 1777945892.9943616,
+    "hash": "a340e42efda3331e3912af00814631bb"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bugatti\\DESIGN.md": {
+    "mtime": 1777945892.9963737,
+    "hash": "a31d70c0c65a72439fe85b05367dde97"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\bugatti\\README.md": {
+    "mtime": 1777945892.9963737,
+    "hash": "7e5086e5cfe41465011c97ea6f99ddc7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cal\\DESIGN.md": {
+    "mtime": 1777945892.9973803,
+    "hash": "bf0f1004604b7981b450fbdaaef2325f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cal\\README.md": {
+    "mtime": 1777945892.9973803,
+    "hash": "179b69d0220a88dfd06751e749f7368f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\claude\\DESIGN.md": {
+    "mtime": 1777945892.997886,
+    "hash": "0796e6a4d03d71ab34b39b1969f7e120"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\claude\\README.md": {
+    "mtime": 1777945892.997886,
+    "hash": "7fa738f848f3a1c916b4dcdc1d1b068e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\clay\\DESIGN.md": {
+    "mtime": 1777945892.997886,
+    "hash": "fb022a8399ae44ebd2b4f467ac58e7a1"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\clay\\README.md": {
+    "mtime": 1777945892.997886,
+    "hash": "0ad3390917cd4c30b17204140e4ab782"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\clickhouse\\DESIGN.md": {
+    "mtime": 1777945892.9993918,
+    "hash": "64bd27ea9021215bf1d1e36e5511b91b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\clickhouse\\README.md": {
+    "mtime": 1777945892.9993918,
+    "hash": "46ce5dddc0e389c3c3a0161e22cbf595"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cohere\\DESIGN.md": {
+    "mtime": 1777945893.0003986,
+    "hash": "63fbaac16002926b8bd6285860c9ed54"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cohere\\README.md": {
+    "mtime": 1777945893.0003986,
+    "hash": "069917c92a3c1484c0245113d2882dbd"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\coinbase\\DESIGN.md": {
+    "mtime": 1777945893.0013983,
+    "hash": "a8e95d4342737ecce9296c48265b39f9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\coinbase\\README.md": {
+    "mtime": 1777945893.0013983,
+    "hash": "c80a4f5f58d16d17ab9f9713df12a73b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\composio\\DESIGN.md": {
+    "mtime": 1777945893.0013983,
+    "hash": "805b305b4ad2f28f678c3df9e0922e6c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\composio\\README.md": {
+    "mtime": 1777945893.0023973,
+    "hash": "4177a736e9e22db74515f64760a19cd2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cursor\\DESIGN.md": {
+    "mtime": 1777945893.0023973,
+    "hash": "b0f94577675c0e01945f2608f3a08213"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\cursor\\README.md": {
+    "mtime": 1777945893.0023973,
+    "hash": "d7f70434165ccc9ebd425ae76d1c6963"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\elevenlabs\\DESIGN.md": {
+    "mtime": 1777945893.0033975,
+    "hash": "4a3747a21d67ed4a2244ea459382bed2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\elevenlabs\\README.md": {
+    "mtime": 1777945893.0033975,
+    "hash": "91504ce3b8d0e1bc8965b51aa1fee7b2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\expo\\DESIGN.md": {
+    "mtime": 1777945893.0043974,
+    "hash": "f2ec68577a5896a8ba1e7c1dfd1f9052"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\expo\\README.md": {
+    "mtime": 1777945893.0043974,
+    "hash": "88e021a1e67165532283133c20455c86"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ferrari\\DESIGN.md": {
+    "mtime": 1777945893.0053973,
+    "hash": "5cce10155dd92858c1d010b1c851446a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ferrari\\README.md": {
+    "mtime": 1777945893.0053973,
+    "hash": "41b44232fd33769651d892a345fa7543"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\figma\\DESIGN.md": {
+    "mtime": 1777945893.0053973,
+    "hash": "71605a303673e677675223b547d8ae8c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\figma\\README.md": {
+    "mtime": 1777945893.006397,
+    "hash": "c970d0b58f71780c6dbb3b2219066372"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\framer\\DESIGN.md": {
+    "mtime": 1777945893.006902,
+    "hash": "bfb6264d947399fccea05b0cb2e4be49"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\framer\\README.md": {
+    "mtime": 1777945893.006902,
+    "hash": "403f0664fa5986c436890f5cc49fb76c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\hashicorp\\DESIGN.md": {
+    "mtime": 1777945893.006902,
+    "hash": "72c7e467b984e1e3ea736b390ef37d72"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\hashicorp\\README.md": {
+    "mtime": 1777945893.007908,
+    "hash": "4fff31fdcb6e3cfcd4a108fa8b1236e3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ibm\\DESIGN.md": {
+    "mtime": 1777945893.007908,
+    "hash": "dd44be2c5d0f39e97548a7b1be04e8dd"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ibm\\README.md": {
+    "mtime": 1777945893.007908,
+    "hash": "bd4fb985fec1be6024621c8a68218272"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\intercom\\DESIGN.md": {
+    "mtime": 1777945893.009412,
+    "hash": "7e3d0a733841602a73d6ae2559f25a92"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\intercom\\README.md": {
+    "mtime": 1777945893.009412,
+    "hash": "7d30c7b078cb5a858afba5dd8db2b3fc"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\kraken\\DESIGN.md": {
+    "mtime": 1777945893.0104184,
+    "hash": "2b58b77eec725cb02afdf1eb17133785"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\kraken\\README.md": {
+    "mtime": 1777945893.0104184,
+    "hash": "1306a85c5d7da869c65bf9733d230eb5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\lamborghini\\DESIGN.md": {
+    "mtime": 1777945893.0104184,
+    "hash": "fb67c14d18975e5a7eac42000c9cd44c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\lamborghini\\README.md": {
+    "mtime": 1777945893.0114193,
+    "hash": "5e87ef7f5853dfed689dd8d6a4898866"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\linear.app\\DESIGN.md": {
+    "mtime": 1777945893.0114193,
+    "hash": "c9850757ecd7c1bb6fa1694847f98f96"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\linear.app\\README.md": {
+    "mtime": 1777945893.0114193,
+    "hash": "491836a6f77f40ba6e4bafba6bfbd44d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\lovable\\DESIGN.md": {
+    "mtime": 1777945893.0129232,
+    "hash": "0b6355af45aff9dada442340c4659684"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\lovable\\README.md": {
+    "mtime": 1777945893.0129232,
+    "hash": "4d42f849bb732e5acfbd5ce83f61d660"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mastercard\\DESIGN.md": {
+    "mtime": 1777945893.0139298,
+    "hash": "4c20cf9ddf0ccb9f004d16ab4595f14a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mastercard\\README.md": {
+    "mtime": 1777945893.0139298,
+    "hash": "36b9362bbb297dc0a076fe99b94a84f6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\meta\\DESIGN.md": {
+    "mtime": 1777945893.0149293,
+    "hash": "7883f51770c86f0b1aff65502144cb8e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\meta\\README.md": {
+    "mtime": 1777945893.0149293,
+    "hash": "7ceac1645b6d00190e759a91449bec80"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\minimax\\DESIGN.md": {
+    "mtime": 1777945893.015435,
+    "hash": "f306a6b86a98109887846920c343f049"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\minimax\\README.md": {
+    "mtime": 1777945893.015435,
+    "hash": "9f26f377310f9cb8441067a715f774b6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mintlify\\DESIGN.md": {
+    "mtime": 1777945893.0164402,
+    "hash": "9c855a9804b9450f9f00c5348bacad38"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mintlify\\README.md": {
+    "mtime": 1777945893.0164402,
+    "hash": "f439b2bbe44443ec34544ef701508e51"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\miro\\DESIGN.md": {
+    "mtime": 1777945893.017446,
+    "hash": "23cb04d99792390224ce754d92208a9d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\miro\\README.md": {
+    "mtime": 1777945893.018012,
+    "hash": "a30cec1073b5c6ec663962161dc0064d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mistral.ai\\DESIGN.md": {
+    "mtime": 1777945893.018012,
+    "hash": "e7cc5329d33f57ae7e50394edfd66646"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mistral.ai\\README.md": {
+    "mtime": 1777945893.018012,
+    "hash": "39aa5aebc72743e3187b21c9185c363e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mongodb\\DESIGN.md": {
+    "mtime": 1777945893.0195277,
+    "hash": "8304342775c1127632ce5ca0d6881bc7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\mongodb\\README.md": {
+    "mtime": 1777945893.0195277,
+    "hash": "0d39b9365b9a81483c66ab6cfa772072"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\nike\\DESIGN.md": {
+    "mtime": 1777945893.0195277,
+    "hash": "22cf87fca84288376882bd40f25921f4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\nike\\README.md": {
+    "mtime": 1777945893.0205348,
+    "hash": "1c0d76264a5e68a833b01a11873b99d7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\notion\\DESIGN.md": {
+    "mtime": 1777945893.0215328,
+    "hash": "7154e66dadb1140b9f9fc20de1bac4d9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\notion\\README.md": {
+    "mtime": 1777945893.0215328,
+    "hash": "a9534fda99f7e9810cb639fc2fcc7c10"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\nvidia\\DESIGN.md": {
+    "mtime": 1777945893.0225341,
+    "hash": "d2577df789ff56b78a75d218d6e3f5f9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\nvidia\\README.md": {
+    "mtime": 1777945893.0225341,
+    "hash": "6bb358200bd7c44a977e24d14ab2372b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ollama\\DESIGN.md": {
+    "mtime": 1777945893.0235343,
+    "hash": "5b0b6a1fe18ab51f0b075dafada05306"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\ollama\\README.md": {
+    "mtime": 1777945893.0235343,
+    "hash": "8350876f1a5e53766e619d4171c459cb"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\opencode.ai\\DESIGN.md": {
+    "mtime": 1777945893.0235343,
+    "hash": "dbf35911eea6a9bd8ccef0fa7323623e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\opencode.ai\\README.md": {
+    "mtime": 1777945893.0235343,
+    "hash": "6f330a3c51435369caf0b5e899cbe00c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\pinterest\\DESIGN.md": {
+    "mtime": 1777945893.0255606,
+    "hash": "a522a43a20f3beadb93801a5428bd1d9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\pinterest\\README.md": {
+    "mtime": 1777945893.0255606,
+    "hash": "9e3b4260c3e3d49abc7c28402ecd462c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\playstation\\DESIGN.md": {
+    "mtime": 1777945893.0255606,
+    "hash": "d9256619caea769abc31ca2424d53dd7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\playstation\\README.md": {
+    "mtime": 1777945893.026567,
+    "hash": "1f908efde2c5698cfe900952e6e618f5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\posthog\\DESIGN.md": {
+    "mtime": 1777945893.027072,
+    "hash": "3aa0a3888fdf7adb2f546035a1c0c13d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\posthog\\README.md": {
+    "mtime": 1777945893.027577,
+    "hash": "8b76fb37177ef1d087660ae804fe6bd9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\raycast\\DESIGN.md": {
+    "mtime": 1777945893.027577,
+    "hash": "824b685ad77f9bb0f75ccf08f3f579ad"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\raycast\\README.md": {
+    "mtime": 1777945893.027577,
+    "hash": "2bb807921f3a7411f099c54038818048"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\renault\\DESIGN.md": {
+    "mtime": 1777945893.028583,
+    "hash": "2e12e68caf2cd92863baa39b54949501"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\renault\\README.md": {
+    "mtime": 1777945893.028583,
+    "hash": "0d39cadaa698edf3c0aa26c0240519d6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\replicate\\DESIGN.md": {
+    "mtime": 1777945893.0295837,
+    "hash": "8454da117e93a00e4f9d94274b980026"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\replicate\\README.md": {
+    "mtime": 1777945893.0295837,
+    "hash": "6b29cbd3036285f153b02c5dbc632b37"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\resend\\DESIGN.md": {
+    "mtime": 1777945893.0305843,
+    "hash": "af4bd0cb8fd9010adad019d9741cd395"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\resend\\README.md": {
+    "mtime": 1777945893.0305843,
+    "hash": "d64dcbb4206f9b833fa8d22e678a1054"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\revolut\\DESIGN.md": {
+    "mtime": 1777945893.0315828,
+    "hash": "89b38abf580f6859ab571c9ba864d86c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\revolut\\README.md": {
+    "mtime": 1777945893.0315828,
+    "hash": "da616a9a7e6e803f9d13353f764f8428"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\runwayml\\DESIGN.md": {
+    "mtime": 1777945893.0315828,
+    "hash": "bcd38afdfaf3646006f4d0bf54258216"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\runwayml\\README.md": {
+    "mtime": 1777945893.0325837,
+    "hash": "573582bc94b2f3db19d16ab39eae5062"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\sanity\\DESIGN.md": {
+    "mtime": 1777945893.0325837,
+    "hash": "3e78ad7ac4e0980053350f33c4017ca4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\sanity\\README.md": {
+    "mtime": 1777945893.0335824,
+    "hash": "cab5da3fd19ab63404d500dcf7c161bd"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\sentry\\DESIGN.md": {
+    "mtime": 1777945893.0340867,
+    "hash": "cec230e6854fedd7f19cbe63aea8342d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\sentry\\README.md": {
+    "mtime": 1777945893.0350916,
+    "hash": "ad8c9756416bbf9afe1e4c242841e5fb"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\shopify\\DESIGN.md": {
+    "mtime": 1777945893.0350916,
+    "hash": "2bce6c4fea39725081d6239c1a8c977e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\shopify\\README.md": {
+    "mtime": 1777945893.0350916,
+    "hash": "4909f7fc135bb53ee298538199c472c0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\spacex\\DESIGN.md": {
+    "mtime": 1777945893.036596,
+    "hash": "ee1346baadd1a7be1498b41b3c7131c6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\spacex\\README.md": {
+    "mtime": 1777945893.036596,
+    "hash": "b14c500406df8e166118ac8915944038"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\spotify\\DESIGN.md": {
+    "mtime": 1777945893.0376015,
+    "hash": "6d5e5992bd1e2e339148377b1c06bd73"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\spotify\\README.md": {
+    "mtime": 1777945893.0376015,
+    "hash": "35539423035dfd55072c4ab739b42e56"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\starbucks\\DESIGN.md": {
+    "mtime": 1777945893.0386012,
+    "hash": "8475dc0ec4ca26b4453577701ab0411c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\starbucks\\README.md": {
+    "mtime": 1777945893.0386012,
+    "hash": "0cf85157626d85af7c386d2cbb0d6372"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\stripe\\DESIGN.md": {
+    "mtime": 1777945893.0396025,
+    "hash": "0d1b5e206d0f3a44b0837793bc1e3499"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\stripe\\README.md": {
+    "mtime": 1777945893.0396025,
+    "hash": "d2bfcaad2f10ce05aa55f045c0a1590d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\supabase\\DESIGN.md": {
+    "mtime": 1777945893.0396025,
+    "hash": "71a88ba02c674acc45830bfd10a3e258"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\supabase\\README.md": {
+    "mtime": 1777945893.040603,
+    "hash": "c88284214f7376ef19473d0177f9cd9d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\superhuman\\DESIGN.md": {
+    "mtime": 1777945893.0411088,
+    "hash": "7aed1e68884cc8af2bfe80d286d91527"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\superhuman\\README.md": {
+    "mtime": 1777945893.0411088,
+    "hash": "3a0350ae35d31e34e96db1ce4123f976"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\tesla\\DESIGN.md": {
+    "mtime": 1777945893.042115,
+    "hash": "802daa7f110a6acbc18294c4017056a3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\tesla\\README.md": {
+    "mtime": 1777945893.042115,
+    "hash": "bd161bb3291ca1f328ee0bf83d534a05"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\theverge\\DESIGN.md": {
+    "mtime": 1777945893.0431225,
+    "hash": "680f41c3b21219066aaafded3687b61a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\theverge\\README.md": {
+    "mtime": 1777945893.0431225,
+    "hash": "b528a8c34da54022bbd2902938410079"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\together.ai\\DESIGN.md": {
+    "mtime": 1777945893.043629,
+    "hash": "cd41f3b7e5d2bb78a8c70ab91cefc3f0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\together.ai\\README.md": {
+    "mtime": 1777945893.0441434,
+    "hash": "49802a2b713836f103c0db4562da710d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\uber\\DESIGN.md": {
+    "mtime": 1777945893.0441434,
+    "hash": "8ff2805a6a7f0f41c5da65641c9bba13"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\uber\\README.md": {
+    "mtime": 1777945893.0441434,
+    "hash": "0f621c2035d8a795cb873cda51915195"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\vercel\\DESIGN.md": {
+    "mtime": 1777945893.045151,
+    "hash": "cb9f74924b858a10954f8dffe7b99ef3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\vercel\\README.md": {
+    "mtime": 1777945893.045151,
+    "hash": "18517722240449a0792dde318e77ab25"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\vodafone\\DESIGN.md": {
+    "mtime": 1777945893.0461564,
+    "hash": "85a6ff93c9556b2d4028bf16c0da855b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\vodafone\\README.md": {
+    "mtime": 1777945893.0466733,
+    "hash": "05c38d489d20ed1d7a383f4d39893ea4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\voltagent\\DESIGN.md": {
+    "mtime": 1777945893.0471869,
+    "hash": "4239bb6bb5fac32fc24a06f626581d30"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\voltagent\\README.md": {
+    "mtime": 1777945893.0471869,
+    "hash": "180dadb7f69fe7d3bb6214bb65e57470"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\warp\\DESIGN.md": {
+    "mtime": 1777945893.0481944,
+    "hash": "403c0f7e99055dee5909e1d797bbb3e0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\warp\\README.md": {
+    "mtime": 1777945893.0481944,
+    "hash": "ac10b506b89bf4e93e3e04e64d3af331"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\webflow\\DESIGN.md": {
+    "mtime": 1777945893.0491943,
+    "hash": "50fe0eaa06d77ac7b30e3070aee9d6a0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\webflow\\README.md": {
+    "mtime": 1777945893.0491943,
+    "hash": "6b1bda1f3a332193bef3aa4d1ac0526e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\wired\\DESIGN.md": {
+    "mtime": 1777945893.0497,
+    "hash": "4f06d89c5efa7e573ed689c3d427250d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\wired\\README.md": {
+    "mtime": 1777945893.0497,
+    "hash": "5c75f63119b57a51f2f12de5d1a1d4e3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\wise\\DESIGN.md": {
+    "mtime": 1777945893.0507078,
+    "hash": "08a358bbbca2674e95a1dbbc4ac96c0e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\wise\\README.md": {
+    "mtime": 1777945893.0507078,
+    "hash": "7e0878e4e033a3c090a12395aa9e22b9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\x.ai\\DESIGN.md": {
+    "mtime": 1777945893.051706,
+    "hash": "ef8942a3c6f4808b8401c18f4c97d00b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\x.ai\\README.md": {
+    "mtime": 1777945893.051706,
+    "hash": "886f5a5dce699b529b8fe5e59be95dc6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\zapier\\DESIGN.md": {
+    "mtime": 1777945893.051706,
+    "hash": "6c695244d4b0a08ea75d1d9cc6e9d6d3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\awesome-design-md\\design-md\\zapier\\README.md": {
+    "mtime": 1777945893.052705,
+    "hash": "ae55ade4da6f943e32e8d10f3c2c6916"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\backend\\SKILL.md": {
+    "mtime": 1777863121.7620635,
+    "hash": "84e59a0b73ad5ffc173deb81da31e66b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\backend-development\\SKILL.md": {
+    "mtime": 1777986701.8788874,
+    "hash": "cbc5d18dc153280926aa8efe4150f04b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\code-review\\SKILL.md": {
+    "mtime": 1777863186.6220438,
+    "hash": "bdae6d5bdbbc61aba78aedc8347f0202"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\context7-mcp\\SKILL.md": {
+    "mtime": 1777863543.2719562,
+    "hash": "00c56d5fb9fcb4a8b1dc0a0172b82c88"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\data-engineer\\SKILL.md": {
+    "mtime": 1777863134.8186216,
+    "hash": "0062f1df2f6b2d7de6999d6e072eb1b7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\database-design\\SKILL.md": {
+    "mtime": 1777986708.7481134,
+    "hash": "68a3b9c99327b7617ae6c53150c74cd4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops\\SKILL.md": {
+    "mtime": 1777863176.952827,
+    "hash": "2aa4e722f2ed6fbfc67fbc0db378d13a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\SKILL.md": {
+    "mtime": 1777986712.5969713,
+    "hash": "d0a73ef03df0dcd04eae9c68d82a6c21"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\deployment-strategies.md": {
+    "mtime": 1777986712.5969713,
+    "hash": "cf32be23b5d96327027bd9c43000b223"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\docker-patterns.md": {
+    "mtime": 1777986712.5969713,
+    "hash": "b1b087c844e2832a9c4929f7ad07a535"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\github-actions.md": {
+    "mtime": 1777986712.5979755,
+    "hash": "486d70b13cc85cf281c7e36b316f1a4d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\incident-response.md": {
+    "mtime": 1777986712.5989757,
+    "hash": "1848135316790ec22a9b2e5e18ba4239"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\kubernetes.md": {
+    "mtime": 1777986712.5989757,
+    "hash": "4de67dfc1f39261420093a3cf4f5193a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\platform-engineering.md": {
+    "mtime": 1777986712.5989757,
+    "hash": "56b51f346aecf80acf817133ff1d9053"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\release-automation.md": {
+    "mtime": 1777986712.599975,
+    "hash": "49c6da84d81ab234a7192fd6b33846d9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\devops-engineer\\references\\terraform-iac.md": {
+    "mtime": 1777986712.599975,
+    "hash": "5f523f55d9ced109eba5f7a57ae271c8"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\LICENSE.txt": {
+    "mtime": 1777862773.704875,
+    "hash": "03077c38ac09b5515927eb4d5cf12484"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\SKILL.md": {
+    "mtime": 1777862773.704875,
+    "hash": "b896f8b16dd45347a52118288fbe9e06"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\docx\\scripts\\office\\schemas\\README.md": {
+    "mtime": 1777942990.5545282,
+    "hash": "a3f72e09942c9ef24e5c20aafdf26479"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\find-docs\\SKILL.md": {
+    "mtime": 1777863543.272962,
+    "hash": "ce70e181c3e5fd1bbd5359f9de6fd29b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\find-skills\\SKILL.md": {
+    "mtime": 1777986429.064266,
+    "hash": "efcaee1dd97ebac4f2f4071585cff6b5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\frontend-design\\LICENSE.txt": {
+    "mtime": 1777986698.363155,
+    "hash": "29256199be2a609aac596980ffc11996"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\frontend-design\\SKILL.md": {
+    "mtime": 1777986698.3641546,
+    "hash": "400c8b8231420f30b48aed0a6f37df9f"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\graphify\\SKILL.md": {
+    "mtime": 1777867488.842134,
+    "hash": "0365d0c10e48536d1a5d522112050a40"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\SKILL.md": {
+    "mtime": 1777862755.391905,
+    "hash": "65ca8e0f304f1cf196f98d015f254350"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\agents\\openai.yaml": {
+    "mtime": 1777862755.392909,
+    "hash": "7b0c955694fc8b2b320c03ada2080d00"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\adapt.md": {
+    "mtime": 1777862755.392909,
+    "hash": "113e70ac322648d0ff1333100758d599"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\animate.md": {
+    "mtime": 1777862755.393909,
+    "hash": "22000806f381f6dfbcc242bc8bbfe8ab"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\audit.md": {
+    "mtime": 1777862755.393909,
+    "hash": "8dcaf7ba38f036393193467f5aad03c0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\bolder.md": {
+    "mtime": 1777862755.393909,
+    "hash": "c3b96ea0dcedf3b46e8dd032493a56ee"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\brand.md": {
+    "mtime": 1777862755.3949099,
+    "hash": "fa63f8e91d849d6c7a94990d39750f6e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\clarify.md": {
+    "mtime": 1777862755.3949099,
+    "hash": "2ebbf75bc03c0e4f08495d36b92044f3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\cognitive-load.md": {
+    "mtime": 1777862755.3949099,
+    "hash": "464d1b1b3566c74909fadcd2c13bc544"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\color-and-contrast.md": {
+    "mtime": 1777862755.3959098,
+    "hash": "c51e5bca12b63f220ad15454852a8594"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\colorize.md": {
+    "mtime": 1777862755.3959098,
+    "hash": "2a6499d0d99081b0c4f199c71c72154a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\craft.md": {
+    "mtime": 1777862755.3959098,
+    "hash": "150d4e3c0b1b387add68e7d37ac633a3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\critique.md": {
+    "mtime": 1777862755.3959098,
+    "hash": "118d4c07575879b1d76ad8b91e9b28cf"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\delight.md": {
+    "mtime": 1777862755.397414,
+    "hash": "7c6e23a9a5280c8d58222f6e9ded5fb9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\distill.md": {
+    "mtime": 1777862755.397414,
+    "hash": "572e8eb25abfebfbf6d1c4ad7c4e98b2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\document.md": {
+    "mtime": 1777862755.397414,
+    "hash": "8a901c50eee9d6d691f88e97bfd33b14"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\extract.md": {
+    "mtime": 1777862755.398419,
+    "hash": "4a604a2960fd1f13a0ba5bc76c286294"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\harden.md": {
+    "mtime": 1777862755.398419,
+    "hash": "794fbb12dcc3789211d75ae8df1bbff7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\heuristics-scoring.md": {
+    "mtime": 1777862755.398419,
+    "hash": "f1606921268571e14591682483b595ef"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\interaction-design.md": {
+    "mtime": 1777862755.399419,
+    "hash": "ea39b98601f17b5a87f7de799b953000"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\layout.md": {
+    "mtime": 1777862755.399419,
+    "hash": "ca72f1210da0ab1548f5d4a2bc875daa"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\live.md": {
+    "mtime": 1777862755.4004188,
+    "hash": "534a7255b49ff8ff5937b880f142c8e8"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\motion-design.md": {
+    "mtime": 1777862755.4004188,
+    "hash": "95de769ab6e30a4214a969ebb25ebe89"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\onboard.md": {
+    "mtime": 1777862755.400924,
+    "hash": "6f0bbcfebe2ab4f18f83994e9d7613e5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\optimize.md": {
+    "mtime": 1777862755.400924,
+    "hash": "4ed13d4168ab26be4bd9f57bda15a61e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\overdrive.md": {
+    "mtime": 1777862755.401427,
+    "hash": "a850f9052d9c913a016e41eac9ff00a0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\personas.md": {
+    "mtime": 1777862755.401427,
+    "hash": "9b9262f9ef14854eb858b93998ac885a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\polish.md": {
+    "mtime": 1777862755.4024334,
+    "hash": "a118edef862f848ed55cf8eed3f19fe3"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\product.md": {
+    "mtime": 1777862755.4024334,
+    "hash": "c073e67bbcec51f31af4ba132730aca9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\quieter.md": {
+    "mtime": 1777862755.4024334,
+    "hash": "63c7a87649e853bf1fd1c865e0f512c9"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\responsive-design.md": {
+    "mtime": 1777862755.40344,
+    "hash": "3a0e2834961edfe9d44cef19ffc84737"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\shape.md": {
+    "mtime": 1777862755.40344,
+    "hash": "af3b26698c86792705df849b3f0841e4"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\spatial-design.md": {
+    "mtime": 1777862755.40344,
+    "hash": "28fd3d7f36c9ad72fdc5c3a90c7f5505"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\teach.md": {
+    "mtime": 1777862755.404439,
+    "hash": "299a52615a9ab8204d098802f00a25a0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\typeset.md": {
+    "mtime": 1777862755.404439,
+    "hash": "bb995ffa9f56024a1f6ece9f6ae8916a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\typography.md": {
+    "mtime": 1777862755.404439,
+    "hash": "841fa5dc3d8cf998ecb63b211b766c7c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\impeccable\\reference\\ux-writing.md": {
+    "mtime": 1777862755.4054377,
+    "hash": "74e4aac960c114a7b8761210f80a8cc5"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\LICENSE.txt": {
+    "mtime": 1777862773.742245,
+    "hash": "b895df9142976f87a996eaf2e50fcfc0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\SKILL.md": {
+    "mtime": 1777862773.742245,
+    "hash": "9905c569b29714bfaa92f0caabc231fd"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\reference\\evaluation.md": {
+    "mtime": 1777862773.7432487,
+    "hash": "c20f36eb6a9e8f0e7bdbe625a54f4396"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\reference\\mcp_best_practices.md": {
+    "mtime": 1777862773.7432487,
+    "hash": "40b4b4097253fe25a37bc1cd8c8e4728"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\reference\\node_mcp_server.md": {
+    "mtime": 1777862773.7432487,
+    "hash": "a25cf11720e6f4e956aeb3e02e0aa651"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\reference\\python_mcp_server.md": {
+    "mtime": 1777862773.744249,
+    "hash": "b6e242e5cf7bc8d30abc7bbd4d9a21ec"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\mcp-builder\\scripts\\requirements.txt": {
+    "mtime": 1777862773.7462494,
+    "hash": "6b5eb2873ee0dd7a24a96d89cced5c38"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\editing.md": {
+    "mtime": 1777862773.752361,
+    "hash": "33876e66c94438d1e0dd297bd1adef1e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\LICENSE.txt": {
+    "mtime": 1777862773.752361,
+    "hash": "03077c38ac09b5515927eb4d5cf12484"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\pptxgenjs.md": {
+    "mtime": 1777862773.7533612,
+    "hash": "954ae9672dcf717aed943d1009f1c53a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\SKILL.md": {
+    "mtime": 1777862773.752361,
+    "hash": "5b9da5ed820b9eca927d9909531ac867"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pptx\\scripts\\office\\schemas\\README.md": {
+    "mtime": 1777942994.3200696,
+    "hash": "92d8d96f23b744e444806a36b679fa3e"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pr-review\\SKILL.md": {
+    "mtime": 1777986776.1902819,
+    "hash": "9684e777772563562ae131e65d0f6e1c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pr-review\\references\\quality-guidelines.md": {
+    "mtime": 1777986776.1902819,
+    "hash": "162923f2b70d420f9e4f45cc962426af"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\pr-review\\references\\structure-rules.md": {
+    "mtime": 1777986776.1902819,
+    "hash": "4f49a0c296a6cd3d31dbb3efcde86694"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\production-code-audit\\SKILL.md": {
+    "mtime": 1777986788.5490327,
+    "hash": "4e0caac563191811d52c074a7e59bb55"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\rtk\\SKILL.md": {
+    "mtime": 1777944806.990841,
+    "hash": "7635f51d55a7177fbfa94c00ecda61b0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\security\\SKILL.md": {
+    "mtime": 1777863127.9343896,
+    "hash": "8aea9687b3c76321ede2ea69600d3693"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\LICENSE.txt": {
+    "mtime": 1777862773.7775185,
+    "hash": "b895df9142976f87a996eaf2e50fcfc0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\SKILL.md": {
+    "mtime": 1777862773.7775185,
+    "hash": "26aa26467de6ecf13ce7047858007335"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\agents\\analyzer.md": {
+    "mtime": 1777862773.7785254,
+    "hash": "60ccb8eaf4baa1284f3d5833ae0992bb"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\agents\\comparator.md": {
+    "mtime": 1777862773.7785254,
+    "hash": "142cb6a33c43956ad89e328a6a0bcc24"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\agents\\grader.md": {
+    "mtime": 1777862773.7785254,
+    "hash": "a20d81caedc41baa552eee0dedfad071"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\assets\\eval_review.html": {
+    "mtime": 1777862773.7800317,
+    "hash": "b4ec70f8062506594d13a550e9128205"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\eval-viewer\\viewer.html": {
+    "mtime": 1777862773.7810395,
+    "hash": "1bfb666af186113482785fd24c69b342"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\skill-creator\\references\\schemas.md": {
+    "mtime": 1777862773.7810395,
+    "hash": "914dfa3b885881574e14b406d8c23465"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\LICENSE.txt": {
+    "mtime": 1777862773.7880738,
+    "hash": "b895df9142976f87a996eaf2e50fcfc0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\SKILL.md": {
+    "mtime": 1777862773.7880738,
+    "hash": "c7ab1d4f2f9e992f7ccb251d03cfd69d"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\arctic-frost.md": {
+    "mtime": 1777862773.789073,
+    "hash": "ef05f8f80b89ae7b4898d789d85b4d7b"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\botanical-garden.md": {
+    "mtime": 1777862773.7900736,
+    "hash": "e0a5782e1ead0c52a1f658109e73a350"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\desert-rose.md": {
+    "mtime": 1777862773.7900736,
+    "hash": "780c603034a9c9f7e3609d6b3b64930c"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\forest-canopy.md": {
+    "mtime": 1777862773.7905798,
+    "hash": "53d611e6a1f4c713ab40e92e442e934a"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\golden-hour.md": {
+    "mtime": 1777862773.7905798,
+    "hash": "e7cd662cec6c99b63e6bce7f9db38d87"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\midnight-galaxy.md": {
+    "mtime": 1777862773.791587,
+    "hash": "049f2efc49b6cb41fd745261ef8a65c7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\modern-minimalist.md": {
+    "mtime": 1777862773.791587,
+    "hash": "2f3a65cdd67ee76f120056f0d3b794d2"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\ocean-depths.md": {
+    "mtime": 1777862773.791587,
+    "hash": "77f312beccb1b42e19e6c4444cf42454"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\sunset-boulevard.md": {
+    "mtime": 1777862773.7925918,
+    "hash": "f833585a07217fb5a6cdc39c67b1f685"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\themes\\tech-innovation.md": {
+    "mtime": 1777862773.7925918,
+    "hash": "d377455e687701c32962078505f4d995"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\LICENSE.txt": {
+    "mtime": 1777986456.593808,
+    "hash": "b895df9142976f87a996eaf2e50fcfc0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\webapp-testing\\SKILL.md": {
+    "mtime": 1777986456.593808,
+    "hash": "3becd8cd21604694b63809e483bc31a7"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\LICENSE.txt": {
+    "mtime": 1777862773.7987747,
+    "hash": "03077c38ac09b5515927eb4d5cf12484"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\SKILL.md": {
+    "mtime": 1777862773.7987747,
+    "hash": "5790aed000cb37f8ea00d3976bf226d1"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\xlsx\\scripts\\office\\schemas\\README.md": {
+    "mtime": 1777942998.6597779,
+    "hash": "fb1f850d27467b49da7d85c5c0f316fb"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\_shared\\office-schemas\\README.md": {
+    "mtime": 1777942986.2396734,
+    "hash": "689cccda9759c3fbfdcde47361c7fee6"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\_shared\\office-schemas\\TASK-P2-10-REPORT.md": {
+    "mtime": 1777943073.2471578,
+    "hash": "e40983842d5e4419d5a73860f2dcb402"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\test-live\\assets\\index.html": {
+    "mtime": 1777945655.5325692,
+    "hash": "3434a0cf861fc8656b4e080a1737a2f0"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\skills\\theme-factory\\theme-showcase.pdf": {
+    "mtime": 1777862773.789073,
+    "hash": "ec8fbdc541a62160430606c2ff0a0577"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\test-live\\assets\\graphify.png": {
+    "mtime": 1777921478.7107463,
+    "hash": "b3c63689d171c5ff95cfcf13b7cb3650"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\test-live\\assets\\maestro.png": {
+    "mtime": 1777921465.2610788,
+    "hash": "669e768b3587f638f1280883e99ec579"
+  },
+  "C:\\Users\\pedro\\.config\\opencode\\test-live\\assets\\team.png": {
+    "mtime": 1777921493.993217,
+    "hash": "eb764c7c3b5956544ad1bd6ef20510f3"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+bun.lock
+.env
+.impeccable/
+.kiro/
+test-results/
+graphify-out/*.log
+graphify-out/*.py
+graphify-out/cache/
+*.pyc
+__pycache__/

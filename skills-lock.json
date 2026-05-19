@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "backend-development": {
+      "source": "skillcreatorai/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/backend-development/SKILL.md",
+      "computedHash": "7f05a82b3c35262cb0bcd458baf8abdd2f7e5245b75a698bdd2c42484d2d33ca"
+    },
+    "database-design": {
+      "source": "skillcreatorai/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/database-design/SKILL.md",
+      "computedHash": "794a4a8bd9eb3aa5909a6214e26abb8aad55d5984c3c49057bbda1663d19356f"
+    },
+    "devops-engineer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-engineer/SKILL.md",
+      "computedHash": "b5fefdd43470cf510937c882440fb0759327adfe4a21b511829e545e5faa988e"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "516bd2154eb843a8240e43d5b285229129853114ad7075a5e141e1c08e408c84"
+    },
+    "pr-review": {
+      "source": "minimax-ai/skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/pr-review/SKILL.md",
+      "computedHash": "a775cb9111fd930704f1ed835364f87ae76856409e1281548d92226b6f7ee527"
+    },
+    "production-code-audit": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/production-code-audit/SKILL.md",
+      "computedHash": "e847a51ea79231a3d54311c31d2842be47ed6222be9b69c2d67b8dc438e85ede"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "computedHash": "3f14af7f5690695209c22fbf8c8d133769a86d64892602c09bb13f135e14e857"
+    }
+  }
+}

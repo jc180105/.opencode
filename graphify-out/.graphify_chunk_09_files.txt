@@ -1,0 +1,11 @@
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\soffice.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\unpack.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validate.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\helpers\merge_runs.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\helpers\simplify_redlines.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\helpers\__init__.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validators\base.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validators\docx.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validators\pptx.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validators\redlining.py
+C:\Users\pedro\.config\opencode\skills\xlsx\scripts\office\validators\__init__.py

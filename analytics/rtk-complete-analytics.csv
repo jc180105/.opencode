@@ -1,0 +1,16 @@
+﻿# Daily Data
+date,commands,input_tokens,output_tokens,saved_tokens,savings_pct,total_time_ms,avg_time_ms
+2026-03-19,1,103,15,88,85.44,102,102
+2026-05-05,80,7050,7073,2,0.03,16584,207
+2026-05-06,30,14727,5305,9422,63.98,273901,9130
+2026-05-07,36,26823,2789,23319,86.94,66078,1835
+
+# Weekly Data
+week_start,week_end,commands,input_tokens,output_tokens,saved_tokens,savings_pct,total_time_ms,avg_time_ms
+2026-03-16,2026-03-22,1,103,15,88,85.44,102,102
+2026-05-04,2026-05-10,146,48600,15167,32743,67.37,356563,2442
+
+# Monthly Data
+month,commands,input_tokens,output_tokens,saved_tokens,savings_pct,total_time_ms,avg_time_ms
+2026-03,1,103,15,88,85.44,102,102
+2026-05,146,48600,15167,32743,67.37,356563,2442

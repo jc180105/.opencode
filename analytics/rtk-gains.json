@@ -1,0 +1,99 @@
+﻿{
+  "summary": {
+    "total_commands": 147,
+    "total_input": 48703,
+    "total_output": 15182,
+    "total_saved": 32831,
+    "avg_savings_pct": 67.41063178859619,
+    "total_time_ms": 356665,
+    "avg_time_ms": 2426
+  },
+  "daily": [
+    {
+      "date": "2026-03-19",
+      "commands": 1,
+      "input_tokens": 103,
+      "output_tokens": 15,
+      "saved_tokens": 88,
+      "savings_pct": 85.43689320388349,
+      "total_time_ms": 102,
+      "avg_time_ms": 102
+    },
+    {
+      "date": "2026-05-05",
+      "commands": 80,
+      "input_tokens": 7050,
+      "output_tokens": 7073,
+      "saved_tokens": 2,
+      "savings_pct": 0.028368794326241134,
+      "total_time_ms": 16584,
+      "avg_time_ms": 207
+    },
+    {
+      "date": "2026-05-06",
+      "commands": 30,
+      "input_tokens": 14727,
+      "output_tokens": 5305,
+      "saved_tokens": 9422,
+      "savings_pct": 63.97772798261696,
+      "total_time_ms": 273901,
+      "avg_time_ms": 9130
+    },
+    {
+      "date": "2026-05-07",
+      "commands": 36,
+      "input_tokens": 26823,
+      "output_tokens": 2789,
+      "saved_tokens": 23319,
+      "savings_pct": 86.93658427468964,
+      "total_time_ms": 66078,
+      "avg_time_ms": 1835
+    }
+  ],
+  "weekly": [
+    {
+      "week_start": "2026-03-16",
+      "week_end": "2026-03-22",
+      "commands": 1,
+      "input_tokens": 103,
+      "output_tokens": 15,
+      "saved_tokens": 88,
+      "savings_pct": 85.43689320388349,
+      "total_time_ms": 102,
+      "avg_time_ms": 102
+    },
+    {
+      "week_start": "2026-05-04",
+      "week_end": "2026-05-10",
+      "commands": 146,
+      "input_tokens": 48600,
+      "output_tokens": 15167,
+      "saved_tokens": 32743,
+      "savings_pct": 67.3724279835391,
+      "total_time_ms": 356563,
+      "avg_time_ms": 2442
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-03",
+      "commands": 1,
+      "input_tokens": 103,
+      "output_tokens": 15,
+      "saved_tokens": 88,
+      "savings_pct": 85.43689320388349,
+      "total_time_ms": 102,
+      "avg_time_ms": 102
+    },
+    {
+      "month": "2026-05",
+      "commands": 146,
+      "input_tokens": 48600,
+      "output_tokens": 15167,
+      "saved_tokens": 32743,
+      "savings_pct": 67.3724279835391,
+      "total_time_ms": 356563,
+      "avg_time_ms": 2442
+    }
+  ]
+}

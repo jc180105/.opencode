@@ -1,0 +1,31 @@
+{
+  "team": "data-team",
+  "entries": [
+    {
+      "agent": "data-engineer",
+      "key": "migration",
+      "value": {
+        "table": "users",
+        "action": "create"
+      },
+      "timestamp": "2026-05-07T00:30:34.146577"
+    },
+    {
+      "agent": "backend",
+      "key": "model",
+      "value": {
+        "name": "User",
+        "fields": [
+          "id",
+          "email"
+        ]
+      },
+      "timestamp": "2026-05-07T00:30:34.146577"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-05-07T00:30:34.146577",
+    "last_update": "2026-05-07T00:30:34.146577",
+    "version": "1.0"
+  }
+}
